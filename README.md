@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on stochastic models for stock & crypto market, constructing a paper trading platorm<br>🌱 I’m currently learning advanced python, c++, continuous stochastic models<br>
+🔭 Working on stochastic models for stock & crypto market, constructing a paper trading platorm<br>🌱 Learning advanced python, c++, continuous stochastic models<br>
 
 
 ## 🌐 Socials:
